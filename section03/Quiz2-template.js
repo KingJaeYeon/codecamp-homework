@@ -1,5 +1,5 @@
 function solution({email, idNumber, phone, site}) {
-    return `<html>
+    return `<html lang="ko">
     <body>
     <h1>코드캠프님 가입을 환영합니다.</h1>
     <hr/>
